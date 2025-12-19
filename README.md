@@ -51,4 +51,9 @@ avancés tels que SonarQube, JaCoCo ou le déploiement automatique.
 Ce TP représente ainsi une étape essentielle dans l’apprentissage des
 bonnes pratiques DevOps.
 
+
+
+
+
+
 ## 📂 Structure du projet
